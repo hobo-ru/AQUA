@@ -1,0 +1,480 @@
+# depslib dependency file v1.0
+1445008829 source:c:\its\amr\software\axem\arz\ax_radio_lab_output\config.c
+	"../COMMON/easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"../ARZ/unb.h"
+
+1443711590 c:\its\amr\software\axem\arz\common\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1443711838 c:\its\amr\software\axem\arz\common\axradio.h
+	<libmftypes.h>
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\ax8052f143.h
+	<axcompiler.h>
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\axcompiler.h
+	<stdbool.h>
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfcrc.h
+	"libmftypes.h"
+
+1443630588 source:c:\its\amr\software\axem\arz\ax_radio_lab_output\configmaster.c
+	"../COMMON/axradio.h"
+
+1434720438 source:c:\its\amr\software\axem\arz\common\display_com0.c
+	"display_com0.h"
+	<ax8052f143.h>
+	<libmf.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1434716150 c:\its\amr\software\axem\arz\common\display_com0.h
+	<libmf.h>
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmf.h
+	"libmftypes.h"
+	"libmfdbglink.h"
+	"libmfcrc.h"
+	"libmfflash.h"
+	"libmfuart.h"
+	"libmfadc.h"
+	"libmfbch.h"
+	"libmfcalsector.h"
+	"libmfradio.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfdbglink.h
+	"libmftypes.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfflash.h
+	"libmftypes.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfuart.h
+	"libmftypes.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfadc.h
+	"libmftypes.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfbch.h
+	"libmftypes.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfcalsector.h
+	"libmftypes.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfradio.h
+	"libmftypes.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfuart1.h
+	"libmftypes.h"
+
+1450786955 source:c:\its\amr\software\axem\arz\common\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfwtimer.h
+	"libmftypes.h"
+
+1434628936 source:c:\its\amr\software\axem\arz\common\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libaxlcd2.h>
+	"misc.h"
+	"../COMMON/axradio.h"
+	"display_com0.h"
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\ax8052.h
+	<axcompiler.h>
+
+1386265004 c:\program files (x86)\axsem\axsdb\libaxdvk2\include\libaxlcd2.h
+	"libmftypes.h"
+
+1434628936 c:\its\amr\software\axem\arz\common\misc.h
+	<libmftypes.h>
+	"../COMMON/axradio.h"
+
+1447331125 source:c:\its\amr\software\axem\arz\arz\main.c
+	"../AX_Radio_Lab_output/configmaster.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfuart1.h>
+	"../COMMON/display_com0.h"
+	"../COMMON/libminidvkled.h"
+	<string.h>
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"application.h"
+	"unb.h"
+	"water5.h"
+
+1444391697 c:\its\amr\software\axem\arz\ax_radio_lab_output\configmaster.h
+	"../COMMON/axradio.h"
+
+1434628936 c:\its\amr\software\axem\arz\common\libminidvkled.h
+	"libmftypes.h"
+
+1434628936 c:\its\amr\software\axem\arz\common\configcommon.h
+
+1445615300 source:c:\its\amr\software\axem\arz\arz\pulsecntr.c
+	"pulsecntr.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfflash.h>
+	<stdlib.h>
+	"../COMMON/misc.h"
+	"unb.h"
+
+1445007681 c:\its\amr\software\axem\arz\arz\pulsecntr.h
+	<libmftypes.h>
+
+1447254661 c:\its\amr\software\axem\arz\arz\unb.h
+
+1447251358 source:c:\its\amr\software\axem\arz\arz\unb.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"../COMMON/easyax5043.h"
+	"unb.h"
+	"application.h"
+	"xtea.h"
+
+1443630588 source:c:\its\amr\software\axem\arz_new\ax_radio_lab_output\configmaster.c
+	"../COMMON/axradio.h"
+
+1443711838 c:\its\amr\software\axem\arz_new\common\axradio.h
+	<libmftypes.h>
+
+1434720438 source:c:\its\amr\software\axem\arz_new\common\display_com0.c
+	"display_com0.h"
+	<ax8052f143.h>
+	<libmf.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1434716150 c:\its\amr\software\axem\arz_new\common\display_com0.h
+	<libmf.h>
+
+1443525782 source:c:\its\amr\software\axem\arz_new\common\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1443711590 c:\its\amr\software\axem\arz_new\common\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1434628936 source:c:\its\amr\software\axem\arz_new\common\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libaxlcd2.h>
+	"misc.h"
+	"../COMMON/axradio.h"
+	"display_com0.h"
+
+1434628936 c:\its\amr\software\axem\arz_new\common\misc.h
+	<libmftypes.h>
+	"../COMMON/axradio.h"
+
+1447250988 source:c:\its\amr\software\axem\arz_new\arz\config_united.c
+	"../COMMON/easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"unb.h"
+
+1447254661 c:\its\amr\software\axem\arz_new\arz\unb.h
+
+1448464413 source:c:\its\amr\software\axem\arz_new\arz\water5.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfflash.h>
+	<stdlib.h>
+	"../COMMON/misc.h"
+	"unb.h"
+	"application.h"
+	"water5.h"
+
+1448453136 c:\its\amr\software\axem\arz_new\arz\application.h
+	"defines.h"
+
+1448464778 c:\its\amr\software\axem\arz_new\arz\defines.h
+
+1448455708 c:\its\amr\software\axem\arz_new\arz\water5.h
+
+1446738665 source:c:\its\amr\software\axem\arz_new\arz\xtea.c
+	"XTEA.h"
+
+1446738642 c:\its\amr\software\axem\arz_new\arz\xtea.h
+	<libmftypes.h>
+
+1448464413 source:c:\its\amr\software\axem\arz_new\arz\application.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"unb.h"
+	"application.h"
+	"water5.h"
+
+1444391697 c:\its\amr\software\axem\arz_new\ax_radio_lab_output\configmaster.h
+	"../COMMON/axradio.h"
+
+1434628936 c:\its\amr\software\axem\arz_new\common\configcommon.h
+
+1447331125 source:c:\its\amr\software\axem\arz_new\arz\main.c
+	"../AX_Radio_Lab_output/configmaster.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfuart1.h>
+	"../COMMON/display_com0.h"
+	"../COMMON/libminidvkled.h"
+	<string.h>
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"application.h"
+	"unb.h"
+	"water5.h"
+
+1434628936 c:\its\amr\software\axem\arz_new\common\libminidvkled.h
+	"libmftypes.h"
+
+1447251358 source:c:\its\amr\software\axem\arz_new\arz\unb.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"../COMMON/easyax5043.h"
+	"unb.h"
+	"application.h"
+	"xtea.h"
+
+1450798164 source:c:\its\amr\software\axem\arz\arz\application.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"unb.h"
+	"application.h"
+	"water5.h"
+
+1448453136 c:\its\amr\software\axem\arz\arz\application.h
+	"defines.h"
+
+1450802457 c:\its\amr\software\axem\arz\arz\defines.h
+
+1450799193 c:\its\amr\software\axem\arz\arz\water5.h
+
+1447250988 source:c:\its\amr\software\axem\arz\arz\config_united.c
+	"../COMMON/easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"unb.h"
+
+1446738642 c:\its\amr\software\axem\arz\arz\xtea.h
+	<libmftypes.h>
+
+1446738665 source:c:\its\amr\software\axem\arz\arz\xtea.c
+	"XTEA.h"
+
+1450798070 source:c:\its\amr\software\axem\arz\arz\water5.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfflash.h>
+	<stdlib.h>
+	"../COMMON/misc.h"
+	"unb.h"
+	"application.h"
+	"water5.h"
+
+1443630588 source:c:\its\amr\software\axem\aqua\ax_radio_lab_output\configmaster.c
+	"../COMMON/axradio.h"
+
+1443711838 c:\its\amr\software\axem\aqua\common\axradio.h
+	<libmftypes.h>
+
+1434720438 source:c:\its\amr\software\axem\aqua\common\display_com0.c
+	"display_com0.h"
+	<ax8052f143.h>
+	<libmf.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1434716150 c:\its\amr\software\axem\aqua\common\display_com0.h
+	<libmf.h>
+
+1450786955 source:c:\its\amr\software\axem\aqua\common\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1443711590 c:\its\amr\software\axem\aqua\common\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1434628936 source:c:\its\amr\software\axem\aqua\common\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libaxlcd2.h>
+	"misc.h"
+	"../COMMON/axradio.h"
+	"display_com0.h"
+
+1434628936 c:\its\amr\software\axem\aqua\common\misc.h
+	<libmftypes.h>
+	"../COMMON/axradio.h"
+
+1447250988 source:c:\its\amr\software\axem\aqua\arz\config_united.c
+	"../COMMON/easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"unb.h"
+
+1453908877 c:\its\amr\software\axem\aqua\arz\unb.h
+
+1454071858 source:c:\its\amr\software\axem\aqua\arz\main.c
+	"../AX_Radio_Lab_output/configmaster.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfuart1.h>
+	"../COMMON/display_com0.h"
+	"../COMMON/libminidvkled.h"
+	<string.h>
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"application.h"
+	"unb.h"
+	"water5.h"
+
+1453381979 c:\its\amr\software\axem\aqua\ax_radio_lab_output\configmaster.h
+	"../COMMON/axradio.h"
+
+1434628936 c:\its\amr\software\axem\aqua\common\libminidvkled.h
+	"libmftypes.h"
+
+1434628936 c:\its\amr\software\axem\aqua\common\configcommon.h
+
+1454083345 c:\its\amr\software\axem\aqua\arz\application.h
+	"defines.h"
+
+1455702073 c:\its\amr\software\axem\aqua\arz\defines.h
+
+1454406664 c:\its\amr\software\axem\aqua\arz\water5.h
+
+1454084636 source:c:\its\amr\software\axem\aqua\arz\unb.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"../COMMON/easyax5043.h"
+	"unb.h"
+	"application.h"
+	"xtea.h"
+
+1446738642 c:\its\amr\software\axem\aqua\arz\xtea.h
+	<libmftypes.h>
+
+1454406731 source:c:\its\amr\software\axem\aqua\arz\water5.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfflash.h>
+	<stdlib.h>
+	"../COMMON/misc.h"
+	"unb.h"
+	"application.h"
+	"water5.h"
+
+1446738665 source:c:\its\amr\software\axem\aqua\arz\xtea.c
+	"XTEA.h"
+
+1454406664 source:c:\its\amr\software\axem\aqua\arz\application.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"unb.h"
+	"application.h"
+	"water5.h"
+
+1453904214 source:c:\its\amr\software\axem\aqua\arz\osccal.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfradio.h>
+	<libmfosc.h>
+	<libaxlcd2.h>
+	<libdvk2leds.h>
+	<stdlib.h>
+
+1386265004 c:\program files (x86)\axsem\axsdb\libaxdvk2\include\libdvk2leds.h
+	"libmftypes.h"
+
+1453893353 c:\its\amr\software\axem\aqua\arz\osccal.h
+
+1423573708 c:\program files (x86)\axsem\axsdb\libmf\include\libmfosc.h
+	"libmftypes.h"
+
